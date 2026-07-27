@@ -117,17 +117,9 @@ Hello! I'm **Byatara**, a passionate software engineering student at **State Voc
 
 ---
 
-### 📊 GitHub Analytics
+### 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byatarade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byatarade&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🐍 Contribution Activity</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byatarade/byatarade/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byatarade/byatarade/output/github-contribution-grid-snake.svg">
