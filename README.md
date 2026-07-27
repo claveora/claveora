@@ -4,15 +4,15 @@
 
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Web+Developer;UI%2FUX+Designer;Software+Engineering+Student;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Web+Developer;UI%2FUX+Designer;" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- Coding Illustration & Brief Tagline -->
+<!-- Coding Animation GIF & Brief Tagline -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Developer coding with headphones illustration" style="border-radius: 12px;"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="Animated coding illustration" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);"/>
   <br/><br/>
   <p><i>"Turning coffee & chill beats into clean code and interactive design 🎧⚡"</i></p>
 
@@ -39,12 +39,12 @@
 
 ### 💫 About Me
 
-Hello! I'm **Byatara**, a software engineering student at **State Vocational High School 6 Surakarta (SMKN 6 Surakarta)**. I focus on building responsive web applications and exploring the seamless intersection of design and code.
+Hello! I'm **Byatara**, a passionate software engineering student at **State Vocational High School 6 Surakarta (SMKN 6 Surakarta)**. I focus on building responsive web applications and exploring the seamless intersection of design and code.
 
 - 🏫 **Education:** Software Engineering Student at SMKN 6 Surakarta
 - 🔭 **Currently Working On:** Enhancing web development skills & interactive UI experiences
 - 📍 **Based In:** Surakarta, Central Java, Indonesia 🇮🇩
-- ⚡ **Fun Fact:** I love creating clean layouts and crafting pixels while listening to music with my headphones on!
+- ⚡ **Fun Fact:** I love crafting pixel-perfect layouts while listening to my favorite playlist with my headphones on!
 
 ---
 
@@ -128,15 +128,19 @@ Hello! I'm **Byatara**, a software engineering student at **State Vocational Hig
 
 <div align="center">
   <h3>🐍 Contribution Activity</h3>
-  <img src="https://raw.githubusercontent.com/byatarade/byatarade/output/github-contribution-grid-snake.svg" alt="Github Showcase Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byatarade/byatarade/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byatarade/byatarade/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/byatarade/byatarade/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-### 📫 Get in Touch
+### 📫 Let's Connect!
 
 <div align="center">
-  <p>I'm always open to collaborations, discussions, and school/open-source projects!</p>
+  <p>I'm always open to collaborations, discussions, and open-source projects!</p>
 
   <a href="mailto:byatarade@gmail.com">
     <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
