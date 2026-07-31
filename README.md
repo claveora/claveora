@@ -8,30 +8,27 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Web+Developer;UI%2FUX+Designer;" alt="Typing SVG" />
   </a>
+  <br/>
+  
+  <!-- Profile Visitors Counter -->
+  <img src="https://komarev.com/ghpvc/?username=byatarade&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
 
-<!-- Coding Animation GIF & Brief Tagline -->
+<!-- Social Badges -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="Animated coding illustration" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);"/>
-  <br/><br/>
-  <p><i>"Turning coffee & chill beats into clean code and interactive design 🎧⚡"</i></p>
-
-  <br/>
-
-  <!-- Social Badges (Pitch Black Stealth Mode) -->
   <a href="https://instagram.com/byatarade" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/byatarade" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/byatarade" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:byatarade@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -39,59 +36,30 @@
 
 ---
 
-### 💫 About Me
+### 📊 GitHub Analytics (The Grind)
 
-Hello! I'm **Byatara**, a passionate software engineering student at **State Vocational High School 6 Surakarta (SMKN 6 Surakarta)**. I focus on building responsive web applications and exploring the seamless intersection of design and code.
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=byatarade&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" height="195" alt="GitHub Stats" />
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byatarade&theme=tokyonight&hide_border=true&fire=3B82F6&ring=3B82F6" height="195" alt="GitHub Streak" />
+</div>
 
-- 🏫 **Education:** Software Engineering Student at SMKN 6 Surakarta
-- 🔭 **Currently Working On:** Enhancing web development skills & interactive UI experiences
-- 📍 **Based In:** Surakarta, Central Java, Indonesia 🇮🇩
-- ⚡ **Fun Fact:** I love crafting pixel-perfect layouts while listening to my favorite playlist with my headphones on!
+<br/>
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Arsenal & Tech Stack
 
-<details open>
-  <summary><b>🛠️ Programming Languages</b></summary>
-  <br/>
-  <!-- Skill Icons Grid -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,java,kotlin,py&theme=dark" alt="Programming Languages" />
-  <br/><br/>
-  <!-- Pure Black Stealth Badges for extra tools -->
-  <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=w3c&logoColor=white" alt="XML" />
-</details>
+*(Command Center Layout)*
 
-<br/>
+| 🎨 **Frontend & UI Design** | ⚙️ **Backend, DB & Languages** |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/Lenis-000000?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white" /> <img src="https://img.shields.io/badge/i18n-26A69A?style=for-the-badge&logo=i18next&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=w3c&logoColor=white" /> |
 
-<details open>
-  <summary><b>🚀 Frameworks & Tools</b></summary>
-  <br/>
-  <!-- Skill Icons Grid -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,astro,tailwind,bootstrap,wordpress&theme=dark" alt="Frameworks" />
-  <br/><br/>
-  <!-- Pure Black Stealth Badges for extra tools -->
-  <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Lenis-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="Lenis" />
-  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/DaisyUI-000000?style=for-the-badge&logo=daisyui&logoColor=1AD1A5" alt="DaisyUI" />
-  <img src="https://img.shields.io/badge/i18n-000000?style=for-the-badge&logo=i18next&logoColor=26A69A" alt="i18n" />
-  <img src="https://img.shields.io/badge/SweetAlert2-000000?style=for-the-badge&logo=sweetalert2&logoColor=A8211E" alt="SweetAlert2" />
-</details>
-
-<br/>
-
-<details open>
-  <summary><b>⚙️ Design, DB & Deployment</b></summary>
-  <br/>
-  <!-- Skill Icons Grid -->
-  <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,mysql,firebase,supabase,git,vercel,netlify&theme=dark" alt="Design and DB" />
-  <br/><br/>
-  <!-- Pure Black Stealth Badges for extra tools -->
-  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" />
-  <img src="https://img.shields.io/badge/cPanel-000000?style=for-the-badge&logo=cpanel&logoColor=FF6C2C" alt="cPanel" />
-  <img src="https://img.shields.io/badge/hPanel-000000?style=for-the-badge&logo=hostinger&logoColor=673DE6" alt="hPanel" />
-</details>
+| 🚀 **Tools & Platforms** | ☁️ **Deployment & Hosting** |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" /> <img src="https://img.shields.io/badge/hPanel-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" /> |
 
 ---
 
@@ -99,14 +67,14 @@ Hello! I'm **Byatara**, a passionate software engineering student at **State Voc
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🎨 Gupon Art** | A professional web platform built to showcase painting collections and integrated with a headless CMS for content management. | ![Astro](https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro&logoColor=BC52EE) ![Sanity](https://img.shields.io/badge/-Sanity-000000?style=flat-square&logo=sanity&logoColor=F03E2F) |
-| **🏛️ OSINTRA** | A modern web project built to streamline organizational data management efficiently. | ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20) |
-| **🧠 OtakEncer** | An AI-powered platform that transforms various media types into structured learning materials to make studying easier. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933) |
-| **🎭 Saka Jawa** | An interactive website dedicated to preserving Javanese culture, featuring contents about wayang, culinary heritage, gamelan, and batik. | ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **🎨 Gupon Art** | Professional web platform built to showcase painting collections and integrated with a headless CMS. | ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white) |
+| **🏛️ OSINTRA** | Modern web project built to streamline organizational data management efficiently. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **🧠 OtakEncer** | AI-powered platform that transforms various media types into structured learning materials. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **🎭 Saka Jawa** | Interactive website preserving Javanese culture: wayang, culinary heritage, gamelan, and batik. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
 
 ---
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Graph (Dark Mode Snake)
 
 <div align="center">
   <picture>
@@ -116,23 +84,9 @@ Hello! I'm **Byatara**, a passionate software engineering student at **State Voc
   </picture>
 </div>
 
----
-
-### 📫 Let's Connect!
-
-<div align="center">
-  <p>I'm always open to collaborations, discussions, and open-source projects!</p>
-
-  <a href="mailto:byatarade@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Send Email"/>
-  </a>
-  <a href="https://instagram.com/byatarade" target="_blank">
-    <img src="https://img.shields.io/badge/DM_on_Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram DM"/>
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
+  <p><i>"Turning coffee & chill beats into clean code and interactive design 🎧⚡"</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
