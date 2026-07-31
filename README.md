@@ -82,8 +82,10 @@ Hello! I'm **Byatara**, a passionate software engineering student at **State Voc
   <img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/WordPress-111111?style=for-the-badge&logo=wordpress&logoColor=21759B" alt="WordPress" />
   <img src="https://img.shields.io/badge/GSAP-111111?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Lenis-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="Lenis" />
   <img src="https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/DaisyUI-111111?style=for-the-badge&logo=daisyui&logoColor=1AD1A5" alt="DaisyUI" />
+  <img src="https://img.shields.io/badge/i18n-111111?style=for-the-badge&logo=i18next&logoColor=26A69A" alt="i18n" />
   <img src="https://img.shields.io/badge/SweetAlert2-111111?style=for-the-badge&logo=sweetalert2&logoColor=A8211E" alt="SweetAlert2" />
 </details>
 
