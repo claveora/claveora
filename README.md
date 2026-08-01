@@ -82,19 +82,20 @@ Hello! I'm **Byatara**, a passionate software engineering student at **State Voc
   <img src="https://img.shields.io/badge/DaisyUI-111111?style=for-the-badge&logo=daisyui&logoColor=1AD1A5" alt="DaisyUI" />
   <img src="https://img.shields.io/badge/i18n-111111?style=for-the-badge&logo=i18next&logoColor=26A69A" alt="i18n" />
   <img src="https://img.shields.io/badge/SweetAlert2-111111?style=for-the-badge&logo=sweetalert2&logoColor=A8211E" alt="SweetAlert2" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Android_Studio-111111?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </details>
 <br/>
 <details open>
-  <summary><b>⚙️ Design, DB & Deployment</b></summary>
+  <summary><b>🗄️ Database, CMS & Deployment</b></summary>
   <br/>
-  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" />
-  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Android_Studio-111111?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio" />
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Sanity_Studio-111111?style=for-the-badge&logo=sanity&logoColor=F03E2F" alt="Sanity Studio" />
   <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/cPanel-111111?style=for-the-badge&logo=cpanel&logoColor=FF6C2C" alt="cPanel" />
