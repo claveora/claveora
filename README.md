@@ -87,6 +87,8 @@ Hello! I'm **Byatara**, a passionate software engineering student at **State Voc
   <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" />
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/npm-111111?style=for-the-badge&logo=npm&logoColor=CB3837" alt="npm" />
+  <img src="https://img.shields.io/badge/Composer-111111?style=for-the-badge&logo=composer&logoColor=885630" alt="Composer" />
 </details>
 <br/>
 <details open>
@@ -100,6 +102,7 @@ Hello! I'm **Byatara**, a passionate software engineering student at **State Voc
   <img src="https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/cPanel-111111?style=for-the-badge&logo=cpanel&logoColor=FF6C2C" alt="cPanel" />
   <img src="https://img.shields.io/badge/hPanel-111111?style=for-the-badge&logo=hostinger&logoColor=673DE6" alt="hPanel" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
 </details>
 
 ---
