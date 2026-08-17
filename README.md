@@ -109,12 +109,12 @@ Hello! I'm **Byatara**, a passionate software engineering student at **State Voc
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🎨 Gupon Art** | A professional web platform built to showcase painting collections and integrated with a headless CMS for content management. | ![Astro](https://img.shields.io/badge/-Astro-111111?style=flat-square&logo=astro&logoColor=BC52EE) ![Sanity](https://img.shields.io/badge/-Sanity-111111?style=flat-square&logo=sanity&logoColor=F03E2F) |
-| **🏛️ OSINTRA** | A modern web project built to streamline organizational data management efficiently. | ![React](https://img.shields.io/badge/-React-111111?style=flat-square&logo=react&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/-Laravel-111111?style=flat-square&logo=laravel&logoColor=FF2D20) |
-| **🧠 OtakEncer** | An AI-powered platform that transforms various media types into structured learning materials to make studying easier. | ![Next.js](https://img.shields.io/badge/-Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=339933) |
-| **🎭 Saka Jawa** | An interactive website dedicated to preserving Javanese culture, featuring contents about wayang, culinary heritage, gamelan, and batik. | ![React](https://img.shields.io/badge/-React-111111?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white) |
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **🎨 Gupon Art** | A professional web platform built to showcase painting collections and integrated with a headless CMS for content management. | ![Astro](https://img.shields.io/badge/-Astro-111111?style=flat-square&logo=astro&logoColor=BC52EE) ![Sanity](https://img.shields.io/badge/-Sanity-111111?style=flat-square&logo=sanity&logoColor=F03E2F) | [🌐 Live Demo](https://guponart.my.id) |
+| **🏛️ OSINTRA** | A modern web project built to streamline organizational data management efficiently. | ![React](https://img.shields.io/badge/-React-111111?style=flat-square&logo=react&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/-Laravel-111111?style=flat-square&logo=laravel&logoColor=FF2D20) | [🌐 Live Demo](https://osis.smkn6solo.sch.id) |
+| **🧠 OtakEncer** | An AI-powered platform that transforms various media types into structured learning materials to make studying easier. | ![Next.js](https://img.shields.io/badge/-Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=339933) | [🌐 Live Demo](https://otakencer.me) |
+| **🎭 Saka Jawa** | An interactive website dedicated to preserving Javanese culture, featuring contents about wayang, culinary heritage, gamelan, and batik. | ![React](https://img.shields.io/badge/-React-111111?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white) | [🌐 Live Demo](https://sakajawa.vercel.app) |
 
 ---
 
